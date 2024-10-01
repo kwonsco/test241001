@@ -14,14 +14,8 @@ class DemoApplicationTests {
 	// this is Source
 	// two
 	// this is Test
-
-	
-	
 	//
-	
-	///
-	
-	
+	//
 	//
 	
 	
