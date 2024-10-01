@@ -10,4 +10,5 @@ class DemoApplicationTests {
 	void contextLoads() {
 	}
   
+	// 이것은 머지 대상 타겟!!!!
 }
